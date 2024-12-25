@@ -1,0 +1,12 @@
+Tarefa 1:
+A probabilidade do gato morrer: 0.73
+Estado do gato: morto
+
+Tarefa 2:
+O raio de Schwarzschild: 88933333333.3
+Existe um buraco negro? sim
+
+Tarefa 3:
+Forca de mare: 1.0005e+15
+Gravidade do planeta: 33.35
+Planeta resiste? nao

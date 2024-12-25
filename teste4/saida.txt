@@ -1,0 +1,24 @@
+Tarefa 1:
+A probabilidade do gato morrer: 0.73
+Estado do gato: vivo
+
+Tarefa 2:
+O raio de Schwarzschild: 8893333333.33
+Existe um buraco negro? sim
+
+Tarefa 3:
+Forca de mare: 0.0
+Gravidade do planeta: 33350.0
+Planeta resiste? sim
+
+Tarefa 4:
+Periodo das ondas: 41.63
+Duracao do dia: 115306.36
+Numero ondas por dia: 2770
+Tamanho medio: 9805.23
+Tamanho max: 10730.77
+Tamanho min: 8808.67
+
+Tarefa 5:
+Tempo transcorrido no planeta: 30
+Tempo transcorrido na terra: 1096.13
